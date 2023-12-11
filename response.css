@@ -1,0 +1,118 @@
+body{
+    background-color:burlywood;
+    
+}
+
+.wholecontainer1{
+    display: flex;
+    column-gap: 60px;
+}
+
+
+.container1{
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    border-radius: 20%;
+    margin: 30px;
+    margin-left: 350px;
+    font-family:cursive;
+    text-align:center ;
+    text-transform: uppercase;
+    font-size: x-large;
+}
+.container2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 80, 80);
+    border-radius: 20%;
+    margin: 30px;
+    font-family:cursive;
+    text-align: center;
+    font-size: x-large;
+    text-transform: uppercase;
+    
+}
+
+.wholecontainer2{
+    display: flex;
+    column-gap: 60px;
+    
+}
+.container3{
+    height: 200px;
+    width: 200px;
+    background-color:blueviolet;
+    border-radius: 20%;
+    margin: 30px;
+    margin-left: 350px;
+    text-align:center ;
+    text-transform: uppercase;
+    font-family:cursive;
+    font-size: x-large;
+}
+.container4{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(226, 80, 255);
+    border-radius: 20%;
+    margin: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:cursive;
+    font-size: x-large;
+    
+}
+
+.wholecontainer3{
+    display: flex;
+    column-gap: 60px;
+    
+}
+.container5{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 94, 0);
+    border-radius: 20%;
+    margin: 30px;
+    margin-left: 500px;
+    text-align:center;
+    text-transform: uppercase;
+    font-family:cursive;
+    font-size: x-large;
+    
+    
+}
+
+
+
+
+
+
+/*
+.container1{
+    border-radius: 5%;
+    border-width: 5%; 
+    border-color: black;
+    padding: 10%;
+    background-color: coral;
+    margin-right: 150%;
+    margin-left: 15%;
+    margin-top: 2%;
+    height: 10px;
+    width:10px;
+}
+.container2{
+    display: inline-flex;
+    border-radius: 5%;
+    border-width: 5%;
+    
+    padding-top: 10%;
+    background-color: cornflowerblue;
+    height: 90px;
+    width: 300px;
+    margin-right: 10%;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+*/
